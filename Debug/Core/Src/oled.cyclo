@@ -1,8 +1,0 @@
-../Core/Src/oled.c:89:13:I2C_WriteCmd	1
-../Core/Src/oled.c:95:13:I2C_WriteData	2
-../Core/Src/oled.c:110:6:OLED_Init	1
-../Core/Src/oled.c:137:6:OLED_Clear	1
-../Core/Src/oled.c:142:6:OLED_Update	2
-../Core/Src/oled.c:153:13:OLED_DrawChar	6
-../Core/Src/oled.c:166:6:OLED_PrintAt	5
-../Core/Src/oled.c:180:6:OLED_PrintNumberAt	4

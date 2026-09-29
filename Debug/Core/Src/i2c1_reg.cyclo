@@ -1,3 +1,0 @@
-../Core/Src/i2c1_reg.c:17:6:I2C1_Init	1
-../Core/Src/i2c1_reg.c:58:12:I2C1_WaitFlag	3
-../Core/Src/i2c1_reg.c:71:5:I2C1_MasterTransmit	10
