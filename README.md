@@ -190,6 +190,12 @@ Digital_ic_Tester/
 - Dedicated PCB
 - Improved hardware protection
 
+
+## Demo
+
+[▶️ Watch the Digital IC Tester Demo]([https://github.com/HerinMandora/Digital-ic-tester/blob/main/Digital_IC_Tester.mp4])
+
+
 ## License
 
 This project is intended for educational and experimental use.
